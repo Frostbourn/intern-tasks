@@ -25,7 +25,7 @@
 - Umożliw zaznaczanie jako wykonanych, usuwanie zbędnych zadań co pomoże użytkownikowi w organizacji jego działań.
 
 ### Informacje organizacyjne: 
-1.  Przed rozpoczęciem pracy nad każdym zadaniem, utwórz nowy branch w repozytorium o nazwie feature/<nazwa-zadania>.
+1.  Przed rozpoczęciem pracy nad każdym zadaniem, utwórz nowy branch w repozytorium o nazwie `feature/<nazwa-zadania>`.
 2.  Dla każdego zadania stwórz osobny katalog w folderze `src` repozytorium.
 3.  Po zakończeniu pracy z danym zadaniem, zrób commit ze zmianami z odpowiednim komentarzem i wyślij zmiany do repozytorium zdalnego, a następnie stwórz pull request do głównego brancha.
 
